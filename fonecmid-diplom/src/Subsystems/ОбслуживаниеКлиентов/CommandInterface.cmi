@@ -3,13 +3,13 @@
   <commandsPlacement>
     <placementFragments>
       <group>NavigationPanelImportant</group>
-      <commands>Document.ОбслуживаниеКлиента.StandardCommand.OpenList</commands>
+      <commands>Document.ВКМ_ОбслуживаниеКлиента.StandardCommand.OpenList</commands>
     </placementFragments>
   </commandsPlacement>
   <commandsOrder>
     <orderFragments>
       <group>NavigationPanelImportant</group>
-      <commands>Document.ОбслуживаниеКлиента.StandardCommand.OpenList</commands>
+      <commands>Document.ВКМ_ОбслуживаниеКлиента.StandardCommand.OpenList</commands>
     </orderFragments>
   </commandsOrder>
 </cmi:CommandInterface>

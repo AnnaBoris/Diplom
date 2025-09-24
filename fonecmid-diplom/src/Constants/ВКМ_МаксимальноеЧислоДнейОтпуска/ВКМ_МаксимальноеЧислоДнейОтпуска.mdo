@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Constant xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="042a75ba-f5af-4444-8eec-5e14febdef56">
+  <producedTypes>
+    <managerType typeId="8dc53334-ba80-41f2-bb93-a21ff976ea38" valueTypeId="04fc1af4-b59d-4757-862d-8278076cf337"/>
+    <valueManagerType typeId="36258eb1-beff-4de7-bc1f-48d1886d17de" valueTypeId="07d1768c-abbd-4895-bd4d-a0c32f4bb26d"/>
+    <valueKeyType typeId="6de4619c-b426-4ab6-8aea-3e1adfeaee8b" valueTypeId="f4b385af-210f-4fa8-9859-d318d480e242"/>
+  </producedTypes>
+  <name>ВКМ_МаксимальноеЧислоДнейОтпуска</name>
+  <synonym>
+    <key>ru</key>
+    <value>Максимальное число дней отпуска</value>
+  </synonym>
+  <type>
+    <types>Number</types>
+    <numberQualifiers>
+      <precision>5</precision>
+    </numberQualifiers>
+  </type>
+  <useStandardCommands>true</useStandardCommands>
+  <minValue xsi:type="core:UndefinedValue"/>
+  <maxValue xsi:type="core:UndefinedValue"/>
+  <dataLockControlMode>Managed</dataLockControlMode>
+</mdclass:Constant>

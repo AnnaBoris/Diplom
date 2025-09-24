@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Enum xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="9d8ae8c8-d869-43d7-b31d-0e78d789d6a7">
+  <producedTypes>
+    <refType typeId="8c6a8ddf-7e26-4ac5-b4b6-d4057ff82699" valueTypeId="9ae7593b-beea-4002-beb6-f5ffa7768caa"/>
+    <listType typeId="ff5a184d-6292-4b53-9913-e4d8d671c773" valueTypeId="cb3c5844-72f2-4362-b25b-d81cc8e50c90"/>
+    <managerType typeId="fb9fc4ae-264d-4cff-83fe-bf5bc5fea812" valueTypeId="08d6bfbc-9550-44d0-a1d4-baf9a4761671"/>
+  </producedTypes>
+  <name>ВКМ_КатегорияФизическогоЛица</name>
+  <synonym>
+    <key>ru</key>
+    <value>Категория физического лица</value>
+  </synonym>
+  <standardAttributes>
+    <dataHistory>Use</dataHistory>
+    <name>Order</name>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+  </standardAttributes>
+  <standardAttributes>
+    <dataHistory>Use</dataHistory>
+    <name>Ref</name>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+  </standardAttributes>
+  <quickChoice>true</quickChoice>
+  <choiceMode>BothWays</choiceMode>
+  <enumValues uuid="47b7118b-b8f1-4b15-8cdc-51b1c3484c84">
+    <name>Специалист</name>
+    <synonym>
+      <key>ru</key>
+      <value>Специалист</value>
+    </synonym>
+  </enumValues>
+  <enumValues uuid="53d9d237-8c3b-4a42-abd3-7931ae98cb47">
+    <name>АдминистративныйПерсонал</name>
+    <synonym>
+      <key>ru</key>
+      <value>Административный персонал</value>
+    </synonym>
+  </enumValues>
+</mdclass:Enum>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Subsystem xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="0896c456-d801-40d2-9188-72f0d37d0a04">
+  <name>ВКМ_ИзмененныеОбъекты</name>
+  <synonym>
+    <key>ru</key>
+    <value>Измененные объекты</value>
+  </synonym>
+  <includeHelpInContents>true</includeHelpInContents>
+  <content>Enum.ВидыДоговоровКонтрагентов</content>
+  <content>Catalog.ДоговорыКонтрагентов</content>
+  <content>DefinedType.ФизическоеЛицо</content>
+  <content>Document.РеализацияТоваровУслуг</content>
+  <content>CommonModule.УправлениеДоступомПереопределяемый</content>
+</mdclass:Subsystem>
