@@ -10,4 +10,7 @@
     <picture>CommonPicture.ИконкаНетология</picture>
   </picture>
   <content>Document.ВКМ_ОбслуживаниеКлиента</content>
+  <content>Constant.ВКМ_НоменклатураАбонентскаяПлата</content>
+  <content>Constant.ВКМ_НоменклатураРаботыСпециалиста</content>
+  <content>Catalog.ДоговорыКонтрагентов</content>
 </mdclass:Subsystem>
