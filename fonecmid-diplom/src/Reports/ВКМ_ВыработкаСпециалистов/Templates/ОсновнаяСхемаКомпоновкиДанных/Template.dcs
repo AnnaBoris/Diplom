@@ -538,7 +538,7 @@
 			<dcsat:item xsi:type="dcsat:TableRow">
 				<dcsat:tableCell>
 					<dcsat:item xsi:type="dcsat:Field">
-						<dcsat:value xsi:type="dcscor:Parameter"></dcsat:value>
+						<dcsat:value xsi:type="dcscor:Parameter"/>
 					</dcsat:item>
 					<dcsat:appearance>
 						<dcscor:item>
