@@ -43,4 +43,6 @@
   <content>Constant.ВКМ_МаксимальноеЧислоДнейОтпуска</content>
   <content>AccumulationRegister.ВКМ_ГрафикОтпусков</content>
   <content>Catalog.ВКМ_ФизическиеЛица</content>
+  <content>Role.ВКМ_РаботаСОбработкойКалендарьСпециалистов</content>
+  <content>Role.ВКМ_ДобавлениеИзменениеГрафикаОтпусков</content>
 </mdclass:Subsystem>
